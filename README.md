@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width,
     initial-scale=1.0">
     <title>MEINE NEUE WEBSEIT</title>
-    #<link rel="stylesheet" href="style.css">
-    <style>@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
 :root{
     --color_main:rgba(221, 134, 20, 0.66)
