@@ -18,7 +18,7 @@
 }
 
 .container{
-    background: url('imgres?imgurl=https:%2F%2Fwww.uskudar.bel.tr%2Fuserfiles%2Fimages%2F5.png');
+    background: url('https://www.owwotoys.com.tr/wp-content/uploads/2021/01/Z-BLOK-OW-1909-31.jpg');
     height: 100vh;
     background-size: 100% 100%;
 }
